@@ -1,1 +1,2 @@
-# .vim
+# Vim
+My .vim folder
